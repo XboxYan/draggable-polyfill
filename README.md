@@ -4,6 +4,8 @@
 
 ## Feature
 
+Remove translucent preview!
+
 * light and beautiful
 * native and no dependence
 * cross framework
@@ -13,19 +15,23 @@
 
 * [native drag](http://xboxyan.codelabo.cn/draggable-polyfill/example/index.html)
 
+<img alt="native drag" src="./screenshot/drag.gif"  style="width:600px">
+
 * [native drag with draggable-polyfill](http://xboxyan.codelabo.cn/draggable-polyfill/example/index_polyfill.html)
+
+<img alt="native drag with draggable-polyfill" src="./screenshot/drag-polyfill.gif"  style="width:600px">
 
 ## How to use
 
 Import the library code
 
-* github
+* [github](https://github.com/XboxYan/draggable-polyfill)
 
 ```html
 <script src="./lib/draggable-polyfill.js"></script>
 ```
 
-* npm
+* [npm](https://www.npmjs.com/package/draggable-polyfill)
 ```
 npm install draggable-polyfill
 ```
