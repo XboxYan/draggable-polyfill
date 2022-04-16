@@ -90,6 +90,7 @@ you can set `axis=X|Y` to limit drag direction or press `shift` key when draggin
 
 * Chrome
 * Firefox
+* Safari
 
 Note:This polyfill works on Chrome and Firefox, not for IE( IE is not supports `setDragImage` ), it will keep default effect.
 
