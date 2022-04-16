@@ -1,6 +1,6 @@
 {
   "name": "draggable-polyfill",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "🌈 a beautify polyfill for native drag! ",
   "main": "index.js",
   "directories": {
